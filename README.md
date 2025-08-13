@@ -15,7 +15,6 @@
 ### 后端
 - **FastAPI** - 现代化Python Web框架
 - **gTTS** - Google文字转语音库
-- **pydub** - 音频处理库
 - **uvicorn** - ASGI服务器
 
 ### 前端
